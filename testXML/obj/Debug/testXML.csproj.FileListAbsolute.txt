@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\obj\Debug\testXML.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\obj\Debug\testXML.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\obj\Debug\testXML.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\bin\Debug\testXML.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\bin\Debug\testXML.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\bin\Debug\testXML.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\obj\Debug\testXML.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\testXML\testXML\obj\Debug\testXML.pdb

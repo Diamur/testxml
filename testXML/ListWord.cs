@@ -30,9 +30,7 @@ namespace testXML
 		
 		
 		public List<Word> GetListWord()
-		{
-			
-						
+		{						
 			string[] str =  File.ReadAllLines(_filePathWord);
 			var readWord = new string[4]; 			
 		
